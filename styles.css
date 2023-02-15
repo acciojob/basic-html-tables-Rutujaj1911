@@ -1,2 +1,9 @@
+table{
+	height:100px;
+	width:150px;
+}
 
+thead{
+	text-align:left;
+}
 /* Your CSS Code here. */
